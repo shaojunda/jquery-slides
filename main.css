@@ -1,0 +1,14 @@
+.images {
+  display: flex;
+  transition: transform 0.5s;
+}
+
+.window {
+  border: 10px solid green;
+  width: 300px;
+  overflow: hidden;
+}
+
+.red {
+  color: red;
+}
